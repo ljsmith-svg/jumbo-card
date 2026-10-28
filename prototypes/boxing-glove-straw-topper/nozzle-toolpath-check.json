@@ -1,0 +1,22 @@
+{
+  "White": {
+    "top_layer_path_mm": 10.228454255005127,
+    "path_below_0.34mm_mm": 0,
+    "fraction_below_0.34mm": 0.0
+  },
+  "Black": {
+    "top_layer_path_mm": 917.755242104762,
+    "path_below_0.34mm_mm": 12.527293464029219,
+    "fraction_below_0.34mm": 0.013649928531379855
+  },
+  "Hot pink": {
+    "top_layer_path_mm": 966.7786910278226,
+    "path_below_0.34mm_mm": 27.64633220612755,
+    "fraction_below_0.34mm": 0.028596340054553318
+  },
+  "Light pink": {
+    "top_layer_path_mm": 508.88450779222467,
+    "path_below_0.34mm_mm": 27.1815233966748,
+    "fraction_below_0.34mm": 0.05341393377173294
+  }
+}

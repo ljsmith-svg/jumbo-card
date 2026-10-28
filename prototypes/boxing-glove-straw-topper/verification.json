@@ -1,0 +1,28 @@
+{
+  "bambu_version": "02.08.02.61",
+  "bambu_slice_return_code": 0,
+  "bambu_slice_warning": "",
+  "native_import_save_parts_and_filaments": {
+    "Backing": 1,
+    "Black_Artwork": 2,
+    "Hot_Pink_Artwork": 3,
+    "Light_Pink_Artwork": 4,
+    "White_Detail": 1
+  },
+  "all_four_filaments_actually_used": true,
+  "maximum_native_save_coordinate_roundoff_mm": 2.5880000009692594e-06,
+  "nozzle_mm": 0.4,
+  "layer_height_mm": 0.2,
+  "wall_generator": "arachne",
+  "width_mm": 35,
+  "proportional_height_mm": 40.487693710118506,
+  "backing_thickness_mm": 14,
+  "raised_artwork_mm": 2,
+  "channel_nominal_diameter_mm": 10,
+  "added_clearance_mm": 0,
+  "estimated_print_time_minutes": 108.36236979166667,
+  "estimated_filament_with_purge_g": 26.4671151638031,
+  "estimated_model_filament_g": 8.003811836242676,
+  "physical_fit_and_detail_test": "Required; not performed",
+  "sha256": "686deaf9ee7cd644028ea3e5637301290c0bda45aebe7f2309eb07c673e74e75"
+}

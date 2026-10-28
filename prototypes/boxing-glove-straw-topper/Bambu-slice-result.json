@@ -1,0 +1,98 @@
+{
+    "error_string": "Success.",
+    "export_time": 919,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 1,
+    "prepare_time": 387,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 35.43145751953125,
+                "Bridge": 27.084463119506836,
+                "Custom": 362.5729675292969,
+                "Flush": 2977.54638671875,
+                "Gap infill": 8.137990951538086,
+                "Inner wall": 251.39036560058594,
+                "Internal solid infill": 107.68302917480469,
+                "Outer wall": 811.5340576171875,
+                "Overhang wall": 15.680037498474121,
+                "Prime tower": 771.9326782226563,
+                "Sparse infill": 172.1190185546875,
+                "Top surface": 24.404346466064453,
+                "Travel": 951.0850830078125,
+                "Undefined": 935.794189453125
+            },
+            "filament_change_times": 30,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 5.729020595550537,
+                    "total_used_g": 13.125576972961426
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 2,
+                    "main_used_g": 0.9101064205169678,
+                    "total_used_g": 2.4997355937957764
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 3,
+                    "main_used_g": 0.876681923866272,
+                    "total_used_g": 5.986618995666504
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 4,
+                    "main_used_g": 0.4880028963088989,
+                    "total_used_g": 4.8551836013793945
+                }
+            ],
+            "generate_support_material_time": 328,
+            "id": 1,
+            "infill_time": 846,
+            "layer_filament_change": 0,
+            "main_predication": 2376.01171875,
+            "make_perimeters_time": 5781,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 40.48768997192383,
+                        "height": 16.0,
+                        "width": 35.0,
+                        "x": 110.5,
+                        "y": 107.75615692138672,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Boxing glove - separate backing and artwork",
+                    "triangle_count": 171582
+                }
+            ],
+            "sliced_time": 10063,
+            "sliced_time_with_cache": 2949,
+            "total_predication": 6501.7421875,
+            "triangle_count": 171582,
+            "warning_message": ""
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 2
+}

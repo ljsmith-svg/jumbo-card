@@ -1,0 +1,127 @@
+{
+  "source": "Original JPEG embedded in uploaded SVG; full uncropped artwork",
+  "width_mm": 35,
+  "height_mm": 40.487693710118506,
+  "backing_z_mm": [
+    0,
+    14
+  ],
+  "artwork_z_mm": [
+    14,
+    16
+  ],
+  "channel_nominal_diameter_mm": 10,
+  "added_clearance_mm": 0,
+  "channel_polygon_flat_to_flat_mm": 9.999247018391445,
+  "channel_axis": "Y",
+  "channel_center_x_mm": 17.5,
+  "channel_center_z_mm": 7,
+  "front_rear_nominal_walls_mm": 2,
+  "parts": {
+    "Backing": {
+      "volume_mm3": 10478.81256792404,
+      "triangles": 12780,
+      "watertight": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          35.0,
+          40.48769371211529,
+          14.0
+        ]
+      ]
+    },
+    "Black_Artwork": {
+      "volume_mm3": 667.6948256532245,
+      "triangles": 85170,
+      "watertight": true,
+      "components": 2,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          14.0
+        ],
+        [
+          35.0,
+          40.48769371211529,
+          16.0
+        ]
+      ]
+    },
+    "Hot_Pink_Artwork": {
+      "volume_mm3": 809.1683397609685,
+      "triangles": 47544,
+      "watertight": true,
+      "components": 105,
+      "bounds_mm": [
+        [
+          0.8295350968837738,
+          0.7976299002766609,
+          14.0
+        ],
+        [
+          34.3618960827589,
+          39.658158615231514,
+          16.0
+        ]
+      ]
+    },
+    "Light_Pink_Artwork": {
+      "volume_mm3": 426.811686568954,
+      "triangles": 24852,
+      "watertight": true,
+      "components": 47,
+      "bounds_mm": [
+        [
+          1.531449407339096,
+          0.2233363687992096,
+          14.0
+        ],
+        [
+          33.723792158067226,
+          37.297174111008644,
+          16.0
+        ]
+      ]
+    },
+    "White_Detail": {
+      "volume_mm3": 9.840440780392422,
+      "triangles": 1236,
+      "watertight": true,
+      "components": 3,
+      "bounds_mm": [
+        [
+          24.43938012421131,
+          16.750227890908718,
+          14.0
+        ],
+        [
+          28.172288060188293,
+          23.003646306693554,
+          16.0
+        ]
+      ]
+    }
+  },
+  "overlap_mm3": {
+    "Backing/Black_Artwork": 2.8199475716248665e-15,
+    "Backing/Hot_Pink_Artwork": 6.704173534316682e-15,
+    "Backing/Light_Pink_Artwork": 3.063822262627088e-15,
+    "Backing/White_Detail": 0.0,
+    "Black_Artwork/Hot_Pink_Artwork": 0.0,
+    "Black_Artwork/Light_Pink_Artwork": 0.0,
+    "Black_Artwork/White_Detail": 0.0,
+    "Hot_Pink_Artwork/Light_Pink_Artwork": 0.0,
+    "Hot_Pink_Artwork/White_Detail": 0.0,
+    "Light_Pink_Artwork/White_Detail": 0.0
+  },
+  "physical_test": "Not performed",
+  "minimum_wall_scope": "2mm front/rear nominal walls. Irregular entrance/exit rims are not certified to have 2mm all around.",
+  "artwork_preparation": "Color quantization with 0.67 saturation split between pinks and 3-pixel median denoising; 0.008mm contour simplification; specks/holes below 0.006mm2 removed. Fine details not uniformly widened."
+}

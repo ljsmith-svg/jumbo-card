@@ -1,0 +1,20 @@
+{
+  "README.md": "c089a811267e7a4a2e383005e15e3ac7df7a81f5dc9339885bb3949bb1163014",
+  "geometry-validation.json": "7a010524f4d41b0ebdc612c68985790d1d5819627566a8c347f17d1b2fb12877",
+  "Bambu-slice-result.json": "0481d6d492b151810a0f4c933a40572d5bb75887d398e2ec682a7a9ed106fcfe",
+  "Boxing-Glove-35mm-P1S.3mf": "686deaf9ee7cd644028ea3e5637301290c0bda45aebe7f2309eb07c673e74e75",
+  "package_bambu.py": "e4e7faa280e8b37b8967b60f64e65dc70da1b2af74182001be1211549ec35e9b",
+  "verify_topper.py": "4afbf17002d1060f5c0b1d09f6056373c520889dc6f4dd1f555c72e9bbf82426",
+  "nozzle-toolpath-check.json": "32621ce3e5698b330df5566ec580c4d36ce66895b00b820d05094484b54e578e",
+  "p1s-profile-base.json": "af04f0c6dc2016abfc198bd4cc46e56d6837bc31dcd3545981f634d402e8864a",
+  "validation_helpers.py": "996668bc8bd5e1eb5064079f0dbed141165bd24cbb52799c19abb119d0df9acb",
+  "Bambu-import-verified.png": "da8ad6baec8766bcfc6c03f4191fd6c238f98d92fabafe5e650d7c2693bd1136",
+  "verification.json": "aa776fa77cfc3afb2536a5857457ff020b6a4aff79c273e3bd849f4bd26478fc",
+  "build_topper.py": "2249c867e5518a74db3348d17302dde5edc7687ea76206b7fd35bf42caf0eafa",
+  "artwork-geometry-preview.png": "9785ea34501c81e0c2170caa0905d13a1eb949eaece9e57c2718258e7e0df1e4",
+  "geometry/Backing.stl": "a8419b64b19c96e1d2dc38c30c849db2d021447e9f4e58251bfaece1718348b2",
+  "geometry/Black_Artwork.stl": "8cbf9c1121fe3bb2f9b990157f5528cb01c0cd8b3a024e34a0e33edff6d64d86",
+  "geometry/Light_Pink_Artwork.stl": "8f4504291086fb0377662324bf764c18be61698a8a3ae50beb970a861e98110a",
+  "geometry/Hot_Pink_Artwork.stl": "62544bb508f79d3d0d0085038fbb78720df296e49128942c6e3c01b7a043f424",
+  "geometry/White_Detail.stl": "207554c10297e19cf3455a3a9cd8329736f1d5a042869250e4978fa33f858ab4"
+}
