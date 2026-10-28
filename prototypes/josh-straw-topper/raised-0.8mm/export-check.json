@@ -1,0 +1,14 @@
+{
+  "white": {
+    "watertight": true,
+    "passage_obstruction_volume_mm3": 0.0
+  },
+  "black": {
+    "watertight": true,
+    "passage_obstruction_volume_mm3": 0.0
+  },
+  "red": {
+    "watertight": true,
+    "passage_obstruction_volume_mm3": 0.0
+  }
+}

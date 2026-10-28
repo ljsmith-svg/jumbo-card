@@ -1,0 +1,68 @@
+{
+  "units": "mm",
+  "width": 63.5,
+  "height": 46.77399358661828,
+  "body_thickness": 16,
+  "raised_height": 0.8,
+  "black_top_z": 16.0,
+  "red_white_top_z": 16.8,
+  "hole_diameter": 10.2,
+  "hole_center_from_left": 35.0,
+  "parts": {
+    "white": {
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 28102.822035741676,
+      "triangles": 53722,
+      "bounds": [
+        [
+          0.0,
+          3.3639371395111084e-05,
+          0.0
+        ],
+        [
+          63.5,
+          46.77399444580078,
+          16.799999237060547
+        ]
+      ]
+    },
+    "black": {
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 321.3995636693586,
+      "triangles": 29676,
+      "bounds": [
+        [
+          0.0,
+          0.0,
+          15.600000381469727
+        ],
+        [
+          63.5,
+          46.77399444580078,
+          16.0
+        ]
+      ]
+    },
+    "red": {
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 525.9526964916654,
+      "triangles": 17568,
+      "bounds": [
+        [
+          3.240924835205078,
+          0.20201390981674194,
+          16.0
+        ],
+        [
+          60.62643051147461,
+          46.49091720581055,
+          16.799999237060547
+        ]
+      ]
+    }
+  },
+  "color_area_coverage_error_mm2": 7.331145470588659e-14
+}
