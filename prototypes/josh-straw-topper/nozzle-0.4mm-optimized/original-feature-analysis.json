@@ -1,0 +1,38 @@
+{
+  "White_Artwork": {
+    "area_mm2": 158.100157487596,
+    "vector_components": 33,
+    "raster_islands": 33,
+    "islands_max_width_below_042mm": 20,
+    "skeleton_length_below_042mm_mm": 252.95000000000002,
+    "skeleton_width_percentiles_mm": [
+      0.15000000000000002,
+      0.20615528128088303,
+      0.9178779875342911
+    ]
+  },
+  "Black_Artwork": {
+    "area_mm2": 244.1386310435406,
+    "vector_components": 10,
+    "raster_islands": 10,
+    "islands_max_width_below_042mm": 3,
+    "skeleton_length_below_042mm_mm": 378.75,
+    "skeleton_width_percentiles_mm": [
+      0.1118033988749895,
+      0.3905124837953327,
+      0.6800735254367722
+    ]
+  },
+  "Red_Artwork": {
+    "area_mm2": 199.6984886479241,
+    "vector_components": 26,
+    "raster_islands": 27,
+    "islands_max_width_below_042mm": 4,
+    "skeleton_length_below_042mm_mm": 188.9,
+    "skeleton_width_percentiles_mm": [
+      0.2,
+      0.32015621187164245,
+      1.101135777277262
+    ]
+  }
+}

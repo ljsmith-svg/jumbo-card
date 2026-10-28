@@ -1,0 +1,36 @@
+{
+  "before": {
+    "white": {
+      "extrusion_path_length_mm": 342.2599540235932,
+      "path_length_below_034mm_mm": 37.3306741687823,
+      "fraction_below_034mm": 0.10907111314053693
+    },
+    "black": {
+      "extrusion_path_length_mm": 424.2498179789288,
+      "path_length_below_034mm_mm": 13.357662530120304,
+      "fraction_below_034mm": 0.03148537009103382
+    },
+    "red": {
+      "extrusion_path_length_mm": 434.45964336068675,
+      "path_length_below_034mm_mm": 54.23629521717356,
+      "fraction_below_034mm": 0.12483620986667061
+    }
+  },
+  "after": {
+    "white": {
+      "extrusion_path_length_mm": 461.0383480220188,
+      "path_length_below_034mm_mm": 11.55926078396574,
+      "fraction_below_034mm": 0.025072232784014922
+    },
+    "black": {
+      "extrusion_path_length_mm": 547.8767862411225,
+      "path_length_below_034mm_mm": 6.299934921814504,
+      "fraction_below_034mm": 0.011498817033364651
+    },
+    "red": {
+      "extrusion_path_length_mm": 431.45865863431175,
+      "path_length_below_034mm_mm": 5.159596574007156,
+      "fraction_below_034mm": 0.0119584958390654
+    }
+  }
+}

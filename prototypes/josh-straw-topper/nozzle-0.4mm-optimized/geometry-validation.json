@@ -1,0 +1,69 @@
+{
+  "unchanged_backing_mesh_digest_before": "757a8587f2d2f73f7c8931964328bc64a54e3869ed164e7465b084d575311bdb",
+  "channel_nominal_mm": 10,
+  "clearance_mm": 0,
+  "body_thickness_mm": 14,
+  "artwork_height_mm": 2,
+  "overall_width_mm": 35,
+  "parts": {
+    "Backing": {
+      "volume_mm3": 6531.948473595545,
+      "z_range_mm": [
+        0.0,
+        14.0
+      ],
+      "triangles": 50668,
+      "watertight": true
+    },
+    "White_Artwork": {
+      "volume_mm3": 416.3806613196333,
+      "z_range_mm": [
+        14.0,
+        16.0
+      ],
+      "triangles": 143024,
+      "watertight": true
+    },
+    "Black_Artwork": {
+      "volume_mm3": 436.6881533364686,
+      "z_range_mm": [
+        14.0,
+        16.0
+      ],
+      "triangles": 162530,
+      "watertight": true
+    },
+    "Red_Artwork": {
+      "volume_mm3": 350.8057396956082,
+      "z_range_mm": [
+        14.0,
+        16.0
+      ],
+      "triangles": 68906,
+      "watertight": true
+    }
+  },
+  "overlap_volume_mm3": {
+    "Backing/White_Artwork": 2.334307328881588e-14,
+    "Backing/Black_Artwork": 8.423513708945448e-15,
+    "Backing/Red_Artwork": 6.236730481280949e-15,
+    "White_Artwork/Black_Artwork": 4.326086689450989e-16,
+    "White_Artwork/Red_Artwork": 7.418950182554664e-15,
+    "Black_Artwork/Red_Artwork": 2.410848952928486e-16
+  },
+  "unchanged_backing_mesh_digest_after": "757a8587f2d2f73f7c8931964328bc64a54e3869ed164e7465b084d575311bdb",
+  "settings_changes": {
+    "wall_generator": [
+      "classic",
+      "arachne"
+    ],
+    "flush_volumes_matrix_count": [
+      16,
+      9
+    ],
+    "flush_volumes_vector_count": [
+      8,
+      6
+    ]
+  }
+}

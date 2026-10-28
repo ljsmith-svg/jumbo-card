@@ -1,0 +1,23 @@
+{
+  "backing_mesh_exactly_unchanged": true,
+  "backing_mesh_sha256": "757a8587f2d2f73f7c8931964328bc64a54e3869ed164e7465b084d575311bdb",
+  "channel_nominal_mm": 10,
+  "clearance_mm": 0,
+  "four_parts_and_assignments": {
+    "Backing": 1,
+    "White_Artwork": 1,
+    "Black_Artwork": 2,
+    "Red_Artwork": 3
+  },
+  "wall_generator": "arachne",
+  "nozzle_mm": 0.4,
+  "bambu_slice_return_code": 0,
+  "bambu_version": "02.08.02.61",
+  "all_three_filaments_used": true,
+  "top_layer_paths_below_034mm_before_mm": 104.92463191607617,
+  "top_layer_paths_below_034mm_after_mm": 23.0187922797874,
+  "thin_path_length_reduction_percent": 78.06159348912564,
+  "native_reexport_max_coordinate_roundoff_mm": 2.8320000069470552e-06,
+  "physical_print_test": "not performed",
+  "delivery_sha256": "85c22df6c808a866c40201a1968498e56c5bbcf4f9052c136c30773f82f51810"
+}

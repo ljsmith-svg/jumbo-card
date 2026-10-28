@@ -1,0 +1,750 @@
+{
+  "method": "Vector component stroke widening, sub-nozzle contour cleanup, protected letter counters, shared color partition",
+  "analysis_grid_mm": 0.025,
+  "nominal_line_mm": 0.42,
+  "arachne_min_bead_mm": 0.34,
+  "correction_max_offset_mm": 0.17,
+  "contour_simplification_mm": 0.008,
+  "speck_area_threshold_mm2": 0.04,
+  "changes": [
+    {
+      "color": "White_Artwork",
+      "component": 1,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.07948951334869969,
+      "max_width_before_mm": 0.2810209733026006
+    },
+    {
+      "color": "White_Artwork",
+      "component": 4,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.08530503656832594,
+      "max_width_before_mm": 0.2693899268633481
+    },
+    {
+      "color": "White_Artwork",
+      "component": 6,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.07510860367201266,
+      "max_width_before_mm": 0.2897827926559747
+    },
+    {
+      "color": "White_Artwork",
+      "component": 7,
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 3.1775138076284293e-12,
+      "max_width_mm": 2.188252825080256e-09
+    },
+    {
+      "color": "White_Artwork",
+      "component": 8,
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.995848345070499e-12,
+      "max_width_mm": 1.2321016653254095e-09
+    },
+    {
+      "color": "White_Artwork",
+      "component": 10,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.0817740871905622,
+      "max_width_before_mm": 0.2764518256188756
+    },
+    {
+      "color": "White_Artwork",
+      "component": 12,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.10151013595910711,
+      "max_width_before_mm": 0.23697972808178577
+    },
+    {
+      "color": "White_Artwork",
+      "component": 13,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.16936269626903336,
+      "max_width_before_mm": 0.10127460746193329
+    },
+    {
+      "color": "White_Artwork",
+      "component": 18,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.11463767958278413,
+      "max_width_before_mm": 0.21072464083443174
+    },
+    {
+      "color": "White_Artwork",
+      "component": 19,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.12619323108632596,
+      "max_width_before_mm": 0.1876135378273481
+    },
+    {
+      "color": "White_Artwork",
+      "component": 20,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.12549601885714257,
+      "max_width_before_mm": 0.18900796228571484
+    },
+    {
+      "color": "White_Artwork",
+      "component": 21,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.10599704876717778,
+      "max_width_before_mm": 0.22800590246564445
+    },
+    {
+      "color": "White_Artwork",
+      "component": 22,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.1218781173705984,
+      "max_width_before_mm": 0.19624376525880322
+    },
+    {
+      "color": "White_Artwork",
+      "component": 23,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.12517102897016066,
+      "max_width_before_mm": 0.18965794205967867
+    },
+    {
+      "color": "White_Artwork",
+      "component": 24,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.12186842704471414,
+      "max_width_before_mm": 0.19626314591057173
+    },
+    {
+      "color": "White_Artwork",
+      "component": 25,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.09321507566218037,
+      "max_width_before_mm": 0.25356984867563925
+    },
+    {
+      "color": "White_Artwork",
+      "component": 26,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.12468445374171856,
+      "max_width_before_mm": 0.19063109251656288
+    },
+    {
+      "color": "White_Artwork",
+      "component": 29,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.12637763480526612,
+      "max_width_before_mm": 0.18724473038946776
+    },
+    {
+      "color": "White_Artwork",
+      "component": 31,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.05899138774385451,
+      "max_width_before_mm": 0.322017224512291
+    },
+    {
+      "color": "White_Artwork",
+      "component": 32,
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 3.6772807021634435e-12,
+      "max_width_mm": 1.593288088572983e-09
+    },
+    {
+      "color": "Red_Artwork",
+      "component": 12,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.07429735888154401,
+      "max_width_before_mm": 0.291405282236912
+    },
+    {
+      "color": "Red_Artwork",
+      "component": 15,
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.02054270530562463,
+      "max_width_mm": 0.11156169516955261
+    },
+    {
+      "color": "Red_Artwork",
+      "component": 22,
+      "action": "uniform_stroke_widen",
+      "offset_mm": 0.10302041953465182,
+      "max_width_before_mm": 0.23395916093069635
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "enlarge_small_counter",
+      "offset_mm": 0.10541224166415473
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "enlarge_small_counter",
+      "offset_mm": 0.12694437752801258
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "enlarge_small_counter",
+      "offset_mm": 0.06368345474710524
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.29996555218731624
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00017613930012043075
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0026815706665092795
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 2.2014494481648364e-09
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00022434281350022095
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00025718573123591345
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.679174808348005e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00017062341296046607
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00034828903947788786
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00015529508969927205
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.526806399703776e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00011977050474906194
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 5.259242482280799e-09
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 7.123470973458142e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.1851015317353e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 2.8104386766907903e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 3.243560192662854e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00011481097123422817
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 5.538708006280985e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.958266105426571e-07
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.000976608202388166
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00023594172349234712
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00018035194840706326
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 5.854560883785431e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00015416173796455501
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0007215134825017495
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.126931310925722e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 3.0753126270371256e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 7.562107692715685e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.525705506741091e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.930213817557887e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 9.136415565914413e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0005015288239639537
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 2.0226608949271155e-08
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0009041287164556107
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 5.651431183374301e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.546867221959736e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00022689596799435228
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00013862880865246076
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.7143687416336944e-08
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 8.019685198497853e-07
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.3976537766916745e-08
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.5027556047797139e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.6623095251936897e-07
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.237267675182192e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.2301228489787287e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 2.5974781134091587e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.814324216618489e-10
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 3.087307055807555e-08
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.9525617706828964e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00010043675248070581
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.4203135158022886e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 5.217469265173231e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 7.633494971510547e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00011657512985224425
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0008281758828872793
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 7.016883486652542e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 8.626404372679222e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.0197258348032074e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.2172338958923515e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.5145591282857425e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 5.762749436601252e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 7.532434979729382e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 8.092914407120037e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.4408748712126673e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.07387216244938619
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.008237454613564656
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.10255304535696276
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.12091119714270193
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00011592549667919364
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00015851542132199687
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0001673563255263501
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0003194780779919768
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0002667757234679662
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0003875100985864595
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0001674560433207788
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.611104573312032e-07
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 2.1822104775364988e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 9.881189635222553e-06
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 8.901404228206533e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 8.81583190323503e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00018877266331147988
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00014126629075892613
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0001368558126161261
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00018275559184657822
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00013050035720283307
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00010947699022573816
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00011300152934097658
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00014019717396665182
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 4.6729514053804724e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 2.8497377494819636e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 6.478190419257557e-07
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.894152849780257e-05
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 1.6614408100346723e-07
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0003910458328731712
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.00032837974654075495
+    },
+    {
+      "color": "Black_Artwork",
+      "action": "absorb_unprintable_speck",
+      "area_mm2": 0.0007582721334548305
+    }
+  ],
+  "before": {
+    "White_Artwork": {
+      "area_mm2": 158.100157487596,
+      "vector_components": 33,
+      "raster_islands": 33,
+      "islands_max_width_below_042mm": 20,
+      "skeleton_length_below_042mm_mm": 252.95000000000002,
+      "skeleton_width_percentiles_mm": [
+        0.15000000000000002,
+        0.20615528128088303,
+        0.9178779875342911
+      ]
+    },
+    "Black_Artwork": {
+      "area_mm2": 244.1386310435406,
+      "vector_components": 10,
+      "raster_islands": 10,
+      "islands_max_width_below_042mm": 3,
+      "skeleton_length_below_042mm_mm": 378.75,
+      "skeleton_width_percentiles_mm": [
+        0.1118033988749895,
+        0.3905124837953327,
+        0.6800735254367722
+      ]
+    },
+    "Red_Artwork": {
+      "area_mm2": 199.6984886479241,
+      "vector_components": 26,
+      "raster_islands": 27,
+      "islands_max_width_below_042mm": 4,
+      "skeleton_length_below_042mm_mm": 188.9,
+      "skeleton_width_percentiles_mm": [
+        0.2,
+        0.32015621187164245,
+        1.101135777277262
+      ]
+    }
+  },
+  "after": {
+    "White_Artwork": {
+      "area_mm2": 208.19033069061842,
+      "vector_components": 38,
+      "raster_islands": 27,
+      "islands_max_width_below_042mm": 3,
+      "skeleton_length_below_042mm_mm": 188.925,
+      "skeleton_width_percentiles_mm": [
+        0.35000000000000003,
+        0.41231056256176607,
+        0.9340770846134703
+      ]
+    },
+    "Black_Artwork": {
+      "area_mm2": 218.3440765627795,
+      "vector_components": 12,
+      "raster_islands": 28,
+      "islands_max_width_below_042mm": 15,
+      "skeleton_length_below_042mm_mm": 401.975,
+      "skeleton_width_percentiles_mm": [
+        0.14142135623730953,
+        0.3354101966249685,
+        0.632455532033676
+      ]
+    },
+    "Red_Artwork": {
+      "area_mm2": 175.40286992558006,
+      "vector_components": 26,
+      "raster_islands": 26,
+      "islands_max_width_below_042mm": 2,
+      "skeleton_length_below_042mm_mm": 176.25,
+      "skeleton_width_percentiles_mm": [
+        0.20615528128088303,
+        0.35000000000000003,
+        0.9500000000000001
+      ]
+    }
+  },
+  "color_changed_area_mm2": 54.951561979907574,
+  "total_face_area_mm2": 601.9372771789785
+}

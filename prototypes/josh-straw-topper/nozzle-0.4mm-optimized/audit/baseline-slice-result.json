@@ -1,0 +1,92 @@
+{
+    "error_string": "Success.",
+    "export_time": 2488,
+    "layer_height": 0.20000000298023224,
+    "plate_index": 1,
+    "prepare_time": 3678,
+    "return_code": 0,
+    "sliced_plates": [
+        {
+            "feature_type_times": {
+                "Bottom surface": 19.80923080444336,
+                "Bridge": 14.001384735107422,
+                "Custom": 362.7419128417969,
+                "Flush": 2134.232421875,
+                "Gap infill": 86.63123321533203,
+                "Inner wall": 190.67347717285156,
+                "Internal solid infill": 63.9163703918457,
+                "Outer wall": 542.0125732421875,
+                "Overhang wall": 10.640021324157715,
+                "Prime tower": 546.5054931640625,
+                "Sparse infill": 107.02132415771484,
+                "Top surface": 10.320825576782227,
+                "Travel": 710.5886840820313,
+                "Undefined": 695.1873779296875
+            },
+            "filament_change_times": 20,
+            "filaments": [
+                {
+                    "filament_id": "GFL99",
+                    "id": 1,
+                    "main_used_g": 4.70740270614624,
+                    "total_used_g": 12.38408374786377
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 2,
+                    "main_used_g": 0.40020766854286194,
+                    "total_used_g": 3.391434907913208
+                },
+                {
+                    "filament_id": "GFL99",
+                    "id": 3,
+                    "main_used_g": 0.3769928216934204,
+                    "total_used_g": 3.788405656814575
+                }
+            ],
+            "generate_support_material_time": 601,
+            "id": 1,
+            "infill_time": 739,
+            "layer_filament_change": 0,
+            "main_predication": 1726.681640625,
+            "make_perimeters_time": 9257,
+            "obj_cached_cnt": 0,
+            "objects": [
+                {
+                    "bbox": {
+                        "depth": 25.780942916870117,
+                        "height": 16.0,
+                        "width": 35.0,
+                        "x": 110.5,
+                        "y": 115.10952758789063,
+                        "z": 0.0
+                    },
+                    "id": 5,
+                    "name": "Josh - separate backing and artwork",
+                    "triangle_count": 645656
+                }
+            ],
+            "sliced_time": 12603,
+            "sliced_time_with_cache": 1861,
+            "total_predication": 4783.7294921875,
+            "triangle_count": 645656,
+            "warning_message": "It seems object Josh - separate backing and artwork has floating cantilever. Please re-orient the object or enable support generation."
+        }
+    ],
+    "sparse_infill_density": 15.0,
+    "upward_compatible_machine": [
+        "Bambu Lab P1P 0.4 nozzle",
+        "Bambu Lab X1 0.4 nozzle",
+        "Bambu Lab X1 Carbon 0.4 nozzle",
+        "Bambu Lab X1E 0.4 nozzle",
+        "Bambu Lab A1 0.4 nozzle",
+        "Bambu Lab H2D 0.4 nozzle",
+        "Bambu Lab H2D Pro 0.4 nozzle",
+        "Bambu Lab H2S 0.4 nozzle",
+        "Bambu Lab P2S 0.4 nozzle",
+        "Bambu Lab H2C 0.4 nozzle",
+        "Bambu Lab X2D 0.4 nozzle",
+        "Bambu Lab A2L 0.4 nozzle"
+    ],
+    "wall_loops": 2
+}
