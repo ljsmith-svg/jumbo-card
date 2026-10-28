@@ -1,0 +1,23 @@
+{
+  "geometry_digest_before": "99ea34e0d40bab461ac780d27d14035939a8ae3149507ef2a611123fb389622d",
+  "geometry_digest_after": "99ea34e0d40bab461ac780d27d14035939a8ae3149507ef2a611123fb389622d",
+  "geometry_arrays_exactly_unchanged": true,
+  "group_translation_mm": [
+    110.4996057,
+    115.10952950000001,
+    0
+  ],
+  "filaments": [
+    "#FFFFFF",
+    "#020202",
+    "#F20512"
+  ],
+  "parts": {
+    "White_Backing_and_Artwork": 1,
+    "Black_Artwork": 2,
+    "Red_Artwork": 3
+  },
+  "source": "Josh-35mm-opening-10mm-TRIAL.3mf",
+  "bambu_version": "02.08.02.61",
+  "geometry_correction_deferred": "Backing is still combined with white artwork; export-only correction."
+}

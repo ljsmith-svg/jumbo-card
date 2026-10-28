@@ -1,0 +1,23 @@
+{
+  "geometry_digest": "99ea34e0d40bab461ac780d27d14035939a8ae3149507ef2a611123fb389622d",
+  "original_mesh_arrays_exactly_preserved": true,
+  "bambu_roundtrip_part_assignments": {
+    "White_Backing_and_Artwork": 1,
+    "Black_Artwork": 2,
+    "Red_Artwork": 3
+  },
+  "bambu_roundtrip_palette": [
+    "#FFFFFF",
+    "#020202",
+    "#F20512"
+  ],
+  "native_save_max_coordinate_roundoff_mm": 1.5999999902760464e-06,
+  "triangle_counts": [
+    42020,
+    22608,
+    12568
+  ],
+  "printer": "Bambu Lab P1S 0.4 nozzle",
+  "source_sha256": "392f9314a3ad6c03aa1af00d957d44db3c1a919eca1729df7357f81f2f1c9f4b",
+  "corrected_sha256": "6bf5ac4baf1fd26e3626ff40c2afe4f2bc4c7e89094a1aec8eaf6b7bf4a9cee0"
+}
