@@ -1,0 +1,18 @@
+{
+  "Bambu-import-verified.png": "71f6ec546c91f8b4f01acd81e24a047cd1136920348ce861e9d64eb09b51ced6",
+  "Josh-35mm-Separate-Backing.3mf": "873140461bc3a896c78b2c15532612de4456e1fa0b1583bcbeda33c5abda6baa",
+  "Josh-35mm-Separate-Backing.validation.json": "34bad2722c5f3bed1169c44b77f2e578a4a83dc21aa001b412ca2a63305d2868",
+  "README.md": "e97bd0d73ee2c12352283c3d08c90c575ac77f4bf6373df80cde820fb32e2d4f",
+  "build_four_parts.py": "e8b02d2dbf92f275d876717c9a9e4b526e737796f64d25d7a34ded68287723ec",
+  "construction-verification.json": "2479c1da01c7dc41b4db650835de594a9572e658c6635a1693d2053028595ab8",
+  "export-verification.json": "9d5eb8a17e6b7a939e36448084be5e010d7c8ab9547b681bc26ca1f9d64833fc",
+  "export_bambu.py": "855307a0b8c7e3ddb30a957f6e98d3c9f4a41a74310bff2613110b78ae9dbb0a",
+  "geometry/Backing.stl": "321e11d74a471f197e38aa8a52d4cc3f9cc88094a8c51890c61320a135a0b9df",
+  "geometry/Black_Artwork.stl": "190d519f2e26ee545ea27fbc42463d4fdfeb071ccb29e962e8d1cef1e388b68b",
+  "geometry/Josh-Four-Part-Core.3mf": "2c1dd531f03f12df3426210d8271adc99a259765ba03ce0bdda6772e1ddc3cc4",
+  "geometry/Red_Artwork.stl": "e0b2b29d8b0bf29f2e93cb8750b3daa9cecbb6940813ffc237fe578c1673cbcd",
+  "geometry/White_Artwork.stl": "ca0e9645a5c698ab7905c7c519723fa9bc3027c6dcf6f48529956233c927d8e6",
+  "geometry/geometry-validation.json": "861a980c71c6f1ce5408ed5c6f432b6a8a7f3ce6bd61790755f2eb5008a74837",
+  "verify_construction.py": "9b2d6b6e01c5ee3fd97d2a54645125875a901d7b0339d18908e991fd951bafce",
+  "verify_export.py": "155b342955486ce2819fff22b9f8634a00566008850e396970b79835179c49b0"
+}

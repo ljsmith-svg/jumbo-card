@@ -1,0 +1,24 @@
+{
+  "geometry_digest_before": "b640013326be034d32277b897ab567626df6793cc86d50e07ac99c9b470c525e",
+  "geometry_digest_after": "b640013326be034d32277b897ab567626df6793cc86d50e07ac99c9b470c525e",
+  "geometry_arrays_exactly_unchanged": true,
+  "group_translation_mm": [
+    110.5,
+    115.1095293275,
+    0
+  ],
+  "filaments": [
+    "#FFFFFF",
+    "#020202",
+    "#F20512"
+  ],
+  "parts": {
+    "Backing": 1,
+    "White_Artwork": 1,
+    "Black_Artwork": 2,
+    "Red_Artwork": 3
+  },
+  "source": "Josh-Four-Part-Core.3mf",
+  "bambu_version": "02.08.02.61",
+  "construction": "Separate Backing at Z0-14; three artwork bodies at Z14-16; backing is not merged with artwork."
+}

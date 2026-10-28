@@ -1,0 +1,20 @@
+{
+  "one_continuous_backing": true,
+  "backing_thickness_mm": 14,
+  "all_artwork_z_mm": [
+    14,
+    16
+  ],
+  "backing_front_rear_cross_section_difference_mm2": 1.8243426855302225e-07,
+  "cross_section_numeric_tolerance_mm2": 1e-06,
+  "artwork_in_backing_volume": false,
+  "pairwise_overlap_mm3": {
+    "Backing/White_Artwork": 8.589639939454843e-15,
+    "Backing/Black_Artwork": 1.5018108039943709e-15,
+    "Backing/Red_Artwork": 7.593934181111692e-15,
+    "White_Artwork/Black_Artwork": 4.353101881913694e-12,
+    "White_Artwork/Red_Artwork": 1.1433850225305942e-11,
+    "Black_Artwork/Red_Artwork": 1.8724908776301958e-11
+  },
+  "overlap_numeric_tolerance_mm3": 1e-07
+}

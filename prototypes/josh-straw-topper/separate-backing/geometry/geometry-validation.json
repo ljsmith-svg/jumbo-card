@@ -1,0 +1,71 @@
+{
+  "width_mm": 35,
+  "height_mm": 25.78094134695496,
+  "backing_z_mm": [
+    0,
+    14
+  ],
+  "artwork_z_mm": [
+    14,
+    16
+  ],
+  "channel_diameter_mm": 10.0,
+  "added_clearance_mm": 0,
+  "channel_center_x_mm": 19.291338582677167,
+  "channel_center_z_mm": 7,
+  "nominal_front_rear_walls_mm": 2.0,
+  "parts": {
+    "Backing": {
+      "z_range_mm": [
+        0.0,
+        14.0
+      ],
+      "volume_mm3": 6531.948473588683,
+      "triangles": 50668,
+      "watertight": true,
+      "connected_components": 1
+    },
+    "White_Artwork": {
+      "z_range_mm": [
+        14.0,
+        16.0
+      ],
+      "volume_mm3": 316.20031499793663,
+      "triangles": 174126,
+      "watertight": true,
+      "connected_components": 33
+    },
+    "Black_Artwork": {
+      "z_range_mm": [
+        14.0,
+        16.0
+      ],
+      "volume_mm3": 488.2772620568808,
+      "triangles": 266286,
+      "watertight": true,
+      "connected_components": 10
+    },
+    "Red_Artwork": {
+      "z_range_mm": [
+        14.0,
+        16.0
+      ],
+      "volume_mm3": 399.39697729569633,
+      "triangles": 154576,
+      "watertight": true,
+      "connected_components": 26
+    }
+  },
+  "pairwise_overlap_mm3": {
+    "Backing / White_Artwork": 8.84327907514453e-15,
+    "Backing / Black_Artwork": 1.0203438745000589e-14,
+    "Backing / Red_Artwork": 3.4018708487101233e-15,
+    "White_Artwork / Black_Artwork": 0.0,
+    "White_Artwork / Red_Artwork": 0.0,
+    "Black_Artwork / Red_Artwork": 2.710505431213761e-19
+  },
+  "artwork_partition_volume_error_mm3": 6.252776074688882e-13,
+  "backing_components": 1,
+  "bore_intersection_volume_mm3": 5.480762287062515e-15,
+  "minimum_wall_scope": "Front/rear nominal walls are 2mm. Full irregular entrance/exit wall analysis and physical fit remain required."
+}
