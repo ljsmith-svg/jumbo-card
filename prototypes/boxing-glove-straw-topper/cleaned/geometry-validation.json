@@ -1,0 +1,157 @@
+{
+  "source": "Original JPEG embedded in uploaded SVG; full uncropped artwork",
+  "width_mm": 35,
+  "height_mm": 40.487693710118506,
+  "backing_z_mm": [
+    0,
+    14
+  ],
+  "artwork_z_mm": [
+    14,
+    16
+  ],
+  "channel_nominal_diameter_mm": 10,
+  "added_clearance_mm": 0,
+  "channel_polygon_flat_to_flat_mm": 9.999247018391445,
+  "channel_axis": "Y",
+  "channel_center_x_mm": 17.5,
+  "channel_center_z_mm": 7,
+  "front_rear_nominal_walls_mm": 2,
+  "parts": {
+    "Backing": {
+      "volume_mm3": 10478.81256792404,
+      "triangles": 12780,
+      "watertight": true,
+      "components": 1,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          35.0,
+          40.48769371211529,
+          14.0
+        ]
+      ]
+    },
+    "Black_Artwork": {
+      "volume_mm3": 668.7921221228202,
+      "triangles": 192324,
+      "watertight": true,
+      "components": 2,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          14.0
+        ],
+        [
+          35.0,
+          40.48769371211529,
+          16.0
+        ]
+      ]
+    },
+    "Hot_Pink_Artwork": {
+      "volume_mm3": 809.1683397609685,
+      "triangles": 47544,
+      "watertight": true,
+      "components": 105,
+      "bounds_mm": [
+        [
+          0.8295350968837738,
+          0.7976299002766609,
+          14.0
+        ],
+        [
+          34.3618960827589,
+          39.658158615231514,
+          16.0
+        ]
+      ]
+    },
+    "Light_Pink_Artwork": {
+      "volume_mm3": 425.714390099358,
+      "triangles": 131968,
+      "watertight": true,
+      "components": 40,
+      "bounds_mm": [
+        [
+          1.8185961693525314,
+          1.180492252111435,
+          14.0
+        ],
+        [
+          33.596171379089355,
+          37.297174111008644,
+          16.0
+        ]
+      ]
+    },
+    "White_Detail": {
+      "volume_mm3": 9.840440780392422,
+      "triangles": 1236,
+      "watertight": true,
+      "components": 3,
+      "bounds_mm": [
+        [
+          24.43938012421131,
+          16.750227890908718,
+          14.0
+        ],
+        [
+          28.172288060188293,
+          23.003646306693554,
+          16.0
+        ]
+      ]
+    }
+  },
+  "overlap_mm3": {
+    "Backing/Black_Artwork": 1.473207572142277e-16,
+    "Backing/Hot_Pink_Artwork": 6.704173534316682e-15,
+    "Backing/Light_Pink_Artwork": 1.2074310667509018e-15,
+    "Backing/White_Detail": 0.0,
+    "Black_Artwork/Hot_Pink_Artwork": 0.0,
+    "Black_Artwork/Light_Pink_Artwork": 0.0,
+    "Black_Artwork/White_Detail": 0.0,
+    "Hot_Pink_Artwork/Light_Pink_Artwork": 0.0,
+    "Hot_Pink_Artwork/White_Detail": 0.0,
+    "Light_Pink_Artwork/White_Detail": 0.0
+  },
+  "physical_test": "Not performed",
+  "minimum_wall_scope": "2mm front/rear nominal walls. Irregular entrance/exit rims are not certified to have 2mm all around.",
+  "artwork_preparation": "Color quantization with 0.67 saturation split between pinks and 3-pixel median denoising; 0.008mm contour simplification; specks/holes below 0.006mm2 removed. Fine details not uniformly widened.",
+  "edge_cleanup": {
+    "policy": "Black-outlined boxing-glove art only",
+    "outer_black_guard_mm": 0.2,
+    "light_pink_minimum_component_max_width_mm": 0.3,
+    "light_pink_opening_radius_mm": 0.06,
+    "colors": {
+      "Light_Pink_Artwork": {
+        "area_before_mm2": 213.40584331677758,
+        "area_after_mm2": 212.85719505688095,
+        "removed_area_mm2": 0.548648259896793,
+        "area_removed_by_edge_guard_mm2": 0.094159591626788,
+        "component_count_before": 47,
+        "component_count_after": 40,
+        "removed_narrow_components": [],
+        "remaining_edge_guard_violations": 0,
+        "minimum_distance_to_exterior_mm": 0.4113816899783739
+      },
+      "Hot_Pink_Artwork": {
+        "area_before_mm2": 404.5841698458298,
+        "area_after_mm2": 404.5841698458301,
+        "removed_area_mm2": 0.0,
+        "area_removed_by_edge_guard_mm2": 0.0,
+        "component_count_before": 105,
+        "component_count_after": 105,
+        "removed_narrow_components": [],
+        "remaining_edge_guard_violations": 0,
+        "minimum_distance_to_exterior_mm": 0.4432411482504523
+      }
+    }
+  }
+}

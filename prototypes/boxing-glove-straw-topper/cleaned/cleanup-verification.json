@@ -1,0 +1,22 @@
+{
+  "backing_mesh_exactly_unchanged": true,
+  "backing_digest": "b93a99a656baa9042d28fd6b2f4104fc7c11bf864a0d0527907ceecbb2eb204f",
+  "channel_and_dimensions_preserved": true,
+  "colors": {
+    "Light_Pink_Artwork": {
+      "components_before": 47,
+      "components_after": 40,
+      "actual_mesh_edge_clearance_mm": 0.41138168892625443,
+      "added_pink_area_mm2": 1.4173418786172347e-07,
+      "removed_pink_area_mm2": 0.5486483722603213
+    },
+    "Hot_Pink_Artwork": {
+      "components_before": 105,
+      "components_after": 105,
+      "actual_mesh_edge_clearance_mm": 0.44324114664691366,
+      "added_pink_area_mm2": 0.0,
+      "removed_pink_area_mm2": 0.0
+    }
+  },
+  "white_detail_mesh_exactly_unchanged": true
+}

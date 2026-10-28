@@ -1,0 +1,30 @@
+{
+  "policy": "Black-outlined boxing-glove art only",
+  "outer_black_guard_mm": 0.2,
+  "light_pink_minimum_component_max_width_mm": 0.3,
+  "light_pink_opening_radius_mm": 0.06,
+  "colors": {
+    "Light_Pink_Artwork": {
+      "area_before_mm2": 213.40584331677758,
+      "area_after_mm2": 212.85719505688095,
+      "removed_area_mm2": 0.548648259896793,
+      "area_removed_by_edge_guard_mm2": 0.094159591626788,
+      "component_count_before": 47,
+      "component_count_after": 40,
+      "removed_narrow_components": [],
+      "remaining_edge_guard_violations": 0,
+      "minimum_distance_to_exterior_mm": 0.4113816899783739
+    },
+    "Hot_Pink_Artwork": {
+      "area_before_mm2": 404.5841698458298,
+      "area_after_mm2": 404.5841698458301,
+      "removed_area_mm2": 0.0,
+      "area_removed_by_edge_guard_mm2": 0.0,
+      "component_count_before": 105,
+      "component_count_after": 105,
+      "removed_narrow_components": [],
+      "remaining_edge_guard_violations": 0,
+      "minimum_distance_to_exterior_mm": 0.4432411482504523
+    }
+  }
+}
