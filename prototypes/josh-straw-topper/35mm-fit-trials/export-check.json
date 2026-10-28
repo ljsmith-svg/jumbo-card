@@ -1,0 +1,60 @@
+{
+  "8": {
+    "white": {
+      "watertight": true,
+      "winding_consistent": true,
+      "passage_obstruction_volume_mm3": 0.0,
+      "z_range_mm": [
+        0.0,
+        16.0
+      ]
+    },
+    "black": {
+      "watertight": true,
+      "winding_consistent": true,
+      "passage_obstruction_volume_mm3": 0.0,
+      "z_range_mm": [
+        13.6000004,
+        14.0
+      ]
+    },
+    "red": {
+      "watertight": true,
+      "winding_consistent": true,
+      "passage_obstruction_volume_mm3": 0.0,
+      "z_range_mm": [
+        14.0,
+        16.0
+      ]
+    }
+  },
+  "10": {
+    "white": {
+      "watertight": true,
+      "winding_consistent": true,
+      "passage_obstruction_volume_mm3": 0.0,
+      "z_range_mm": [
+        0.0,
+        16.0
+      ]
+    },
+    "black": {
+      "watertight": true,
+      "winding_consistent": true,
+      "passage_obstruction_volume_mm3": 0.0,
+      "z_range_mm": [
+        13.6000004,
+        14.0
+      ]
+    },
+    "red": {
+      "watertight": true,
+      "winding_consistent": true,
+      "passage_obstruction_volume_mm3": 0.0,
+      "z_range_mm": [
+        14.0,
+        16.0
+      ]
+    }
+  }
+}
